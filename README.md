@@ -5,11 +5,12 @@
 book the best doctors. 
 
 -->Doctors also provide Patients with seamless healthcare experiences through Virtual Consultation.
-From our order system patients can order the prescription and get any medicine to there home. 
 
--->By this system we can save effort and time for the patients and doctors. 
+--> From our order system patients can order the prescription and get any medicine to there home. 
 
--->By using our covid-19 test, using AI technology , patients can do the test so they can know if they have the virus or not with symptoms classification and ct-scan
+-- >By this system we can save effort and time for the patients and doctors. 
+
+-- >By using our covid-19 test, using AI technology , patients can do the test so they can know if they have the virus or not with symptoms classification and ct-scan
 
 # how to run project
 1 - go to djangoAPi then open the terminal write cd meditro/meditro then npm start
